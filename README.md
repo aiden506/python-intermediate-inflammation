@@ -4,3 +4,6 @@
 ## Purpose
 
 Binder test focusing on reproducibility measures
+
+
+Converted has self-documenting examples of how to use the visualisation and has enabled reproducability by moving code to a different platform.
